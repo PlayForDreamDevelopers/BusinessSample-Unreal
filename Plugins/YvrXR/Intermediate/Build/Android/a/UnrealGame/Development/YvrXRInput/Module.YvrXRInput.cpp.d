@@ -1890,7 +1890,8 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   E:/AndroidSDK/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/bit \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Development/YvrXRInput/Module.YvrXRInput.cpp \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Development/YvrXRInput/Definitions.YvrXRInput.h \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRInput/Private/YvrXRHandComponent.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRInput/UHT/YvrXRHandComponent.gen.cpp \
+  Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRInput/Public/YvrXRHandComponent.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRInput/Public/YvrXRInputFunctionLibrary.h \
   Runtime/Core/Public/CoreMinimal.h \
@@ -1909,6 +1910,9 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   Runtime/Engine/Classes/Components/SkinnedMeshComponent.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/PoseableMeshComponent.generated.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRInput/UHT/YvrXRHandComponent.generated.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRInput/UHT/YvrXRInput.init.gen.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRInput/UHT/YvrXRInputFunctionLibrary.gen.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRInput/Private/YvrXRHandComponent.cpp \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRInput/Private/YvrXRInput.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Public/YvrXRCore.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Include/openxr.h \
@@ -1955,5 +1959,153 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   Runtime/Engine/Classes/Components/InputComponent.h \
   Runtime/Engine/Classes/Materials/MaterialInterface.h \
   Runtime/Engine/Classes/GameFramework/PlayerController.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRInput/Private/YvrXRInput.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMD.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMD_Layer.h \
+  Runtime/Engine/Public/IStereoLayers.h \
+  Runtime/Engine/Public/StereoLayerShapes.h \
+  ../Plugins/Runtime/ProceduralMeshComponent/Source/ProceduralMeshComponent/Public/ProceduralMeshComponent.h \
+  Runtime/Engine/Classes/Interfaces/Interface_CollisionDataProvider.h \
+  Runtime/Engine/Classes/Components/MeshComponent.h \
+  ../Plugins/Runtime/ProceduralMeshComponent/Intermediate/Build/Android/UnrealGame/Inc/ProceduralMeshComponent/UHT/ProceduralMeshComponent.generated.h \
+  ../Plugins/Runtime/XRBase/Source/XRBase/Public/XRSwapChain.h \
+  Runtime/Core/Public/HAL/Platform.h \
+  Runtime/Core/Public/Misc/AssertionMacros.h \
+  Runtime/Core/Public/Templates/SharedPointer.h \
+  Runtime/Core/Public/Templates/UnrealTemplate.h \
+  ../Plugins/Runtime/XRBase/Source/XRBase/Public/HeadMountedDisplayBase.h \
+  Runtime/HeadMountedDisplay/Public/IHeadMountedDisplay.h \
+  Runtime/Engine/Public/StereoRendering.h \
+  Runtime/HeadMountedDisplay/Public/LateUpdateManager.h \
+  Runtime/Engine/Public/SceneInterface.h \
+  ../Plugins/Runtime/XRBase/Source/XRBase/Public/XRTrackingSystemBase.h \
+  Runtime/HeadMountedDisplay/Public/IXRTrackingSystem.h \
+  Runtime/HeadMountedDisplay/Public/IIdentifiableXRDevice.h \
+  Runtime/Core/Public/Templates/TypeHash.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/HeadMountedDisplay/UHT/IIdentifiableXRDevice.generated.h \
+  Runtime/HeadMountedDisplay/Public/IXRInput.h \
+  Runtime/Engine/Classes/Engine/EngineBaseTypes.h \
+  Runtime/HeadMountedDisplay/Public/IXRCamera.h \
+  Runtime/AugmentedReality/Public/ARSupportInterface.h \
+  Runtime/AugmentedReality/Public/ARTypes.h \
+  Runtime/Engine/Classes/Engine/DataAsset.h \
+  Runtime/Core/Public/HAL/ThreadSafeBool.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/AugmentedReality/UHT/ARTypes.generated.h \
+  Runtime/AugmentedReality/Public/ARSessionConfig.h \
+  Runtime/CoreUObject/Public/UObject/Object.h \
+  Runtime/AugmentedReality/Public/ARTrackable.h \
+  Runtime/AugmentedReality/Public/ARComponent.h \
+  Runtime/Engine/Classes/Components/SceneComponent.h \
+  Runtime/RenderCore/Public/PackedNormal.h \
+  Runtime/MRMesh/Public/MRMeshBufferDefines.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/AugmentedReality/UHT/ARComponent.generated.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/AugmentedReality/UHT/ARTrackable.generated.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/AugmentedReality/UHT/ARSessionConfig.generated.h \
+  Runtime/AugmentedReality/Public/ARTextures.h \
+  Runtime/Engine/Classes/Engine/Texture.h \
+  Runtime/Engine/Classes/Engine/TextureCube.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/TextureCube.generated.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/AugmentedReality/UHT/ARTextures.generated.h \
+  Runtime/Engine/Classes/Engine/Engine.h \
+  ../Plugins/Runtime/XRBase/Source/XRBase/Public/DefaultSpectatorScreenController.h \
+  Runtime/RenderCore/Public/RendererInterface.h \
+  Runtime/HeadMountedDisplay/Public/ISpectatorScreenController.h \
+  Runtime/Core/Public/UObject/WeakObjectPtrTemplates.h \
+  ../Plugins/Runtime/XRBase/Source/XRBase/Public/XRRenderTargetManager.h \
+  Runtime/Engine/Public/StereoRenderTargetManager.h \
+  Runtime/Engine/Classes/Engine/GameViewportClient.h \
+  Runtime/Core/Public/PixelFormat.h \
+  ../Plugins/Runtime/XRBase/Source/XRBase/Public/XRRenderBridge.h \
+  Runtime/Engine/Public/SceneViewExtension.h \
+  Runtime/Core/Public/Delegates/DelegateCombinations.h \
+  Runtime/Engine/Public/SceneViewExtensionContext.h \
+  Runtime/Engine/Public/UnrealClient.h \
+  Runtime/Engine/Public/ViewportClient.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/SceneViewExtensionContext.generated.h \
+  Runtime/Engine/Public/SceneTexturesConfig.h \
+  Runtime/RenderCore/Public/RenderGraphDefinitions.h \
+  Runtime/RenderCore/Public/ShaderParameterMacros.h \
+  Runtime/RenderCore/Public/GBufferInfo.h \
+  Runtime/Core/Public/Containers/UnrealString.h \
+  Runtime/RHI/Public/RHIDefinitions.h \
+  Runtime/RHI/Public/RHIShaderPlatform.h \
+  Runtime/Engine/Public/SceneUtils.h \
+  ../Plugins/Runtime/XRBase/Source/XRBase/Public/StereoLayerManager.h \
+  Runtime/Core/Public/Containers/Map.h \
+  Runtime/Core/Public/HAL/CriticalSection.h \
+  Runtime/HeadMountedDisplay/Public/IXRLoadingScreen.h \
+  Runtime/Core/Public/Misc/ScopeLock.h \
+  Runtime/Core/Public/Templates/Function.h \
+  Runtime/Core/Public/Templates/RefCounting.h \
+  Runtime/HeadMountedDisplay/Public/IHeadMountedDisplayVulkanExtensions.h \
+  Runtime/CoreUObject/Public/UObject/UObjectIterator.h \
+  Runtime/Engine/Classes/GameFramework/InputSettings.h \
+  Runtime/CoreUObject/Public/UObject/SoftObjectPath.h \
+  Runtime/Engine/Classes/GameFramework/PlayerInput.h \
+  Runtime/Slate/Public/Framework/Commands/InputChord.h \
+  Runtime/Engine/Public/GestureRecognizer.h \
+  Runtime/Engine/Public/KeyState.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/PlayerInput.generated.h \
+  Runtime/DeveloperSettings/Public/Engine/PlatformSettings.h \
+  E:/UE5/UE_5.4/Engine/Source/Runtime/DeveloperSettings/Public/Engine/PlatformSettingsManager.h \
+  Runtime/Core/Public/Containers/SparseArray.h \
+  Runtime/CoreUObject/Public/Templates/Casts.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/DeveloperSettings/UHT/PlatformSettingsManager.generated.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/DeveloperSettings/UHT/PlatformSettings.generated.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/InputSettings.generated.h \
+  ../Plugins/Runtime/XRBase/Source/XRBase/Public/HeadMountedDisplayFunctionLibrary.h \
+  ../Plugins/Runtime/XRBase/Intermediate/Build/Android/UnrealGame/Inc/XRBase/UHT/HeadMountedDisplayFunctionLibrary.generated.h \
+  Runtime/Engine/Classes/Components/SkeletalMeshComponent.h \
+  Runtime/Engine/Public/Rendering/SkeletalMeshLODRenderData.h \
+  Runtime/Engine/Public/Rendering/MultiSizeIndexContainer.h \
+  Runtime/Engine/Public/RawIndexBuffer.h \
+  Runtime/Engine/Public/Rendering/SkeletalMeshVertexBuffer.h \
+  Runtime/Engine/Public/Components.h \
+  Runtime/Core/Public/Containers/DynamicRHIResourceArray.h \
+  Runtime/Engine/Public/Rendering/StaticMeshVertexBuffer.h \
+  Runtime/RenderCore/Public/RenderMath.h \
+  Runtime/Engine/Public/Rendering/SkinWeightVertexBuffer.h \
+  Runtime/RenderCore/Public/RenderResource.h \
+  Runtime/Engine/Public/StaticMeshVertexData.h \
+  Runtime/Engine/Public/GPUSkinPublicDefs.h \
+  Runtime/Engine/Public/SkeletalMeshTypes.h \
+  Runtime/Engine/Public/ComponentReregisterContext.h \
+  Runtime/Core/Public/Containers/IndirectArray.h \
+  Runtime/RenderCore/Public/RenderingThread.h \
+  Runtime/Engine/Classes/Engine/World.h \
+  Runtime/Engine/Public/SkeletalMeshLegacyCustomVersions.h \
+  Runtime/Engine/Public/GPUSkinVertexFactory.h \
+  Runtime/Core/Public/Stats/Stats.h \
+  Runtime/AnimationCore/Public/BoneIndices.h \
+  Runtime/RenderCore/Public/UniformBuffer.h \
+  Runtime/RenderCore/Public/VertexFactory.h \
+  Runtime/Engine/Public/LocalVertexFactory.h \
+  Runtime/Engine/Public/ResourcePool.h \
+  Runtime/RenderCore/Public/TickableObjectRenderThread.h \
+  Runtime/RHI/Public/RHICommandList.h Runtime/Engine/Public/Matrix3x4.h \
+  Runtime/Core/Public/UObject/AnimObjectVersion.h \
+  Runtime/Core/Public/CoreTypes.h \
+  Runtime/Engine/Public/Rendering/ColorVertexBuffer.h \
+  Runtime/Engine/Public/Rendering/SkeletalMeshDuplicatedVerticesBuffer.h \
+  Runtime/Engine/Public/Rendering/SkeletalMeshVertexClothBuffer.h \
+  Runtime/Engine/Public/Rendering/MorphTargetVertexInfoBuffers.h \
+  Runtime/Core/Public/Math/Vector4.h \
+  Runtime/Engine/Public/Rendering/SkeletalMeshHalfEdgeBuffer.h \
+  Runtime/Engine/Public/StaticMeshResources.h \
+  Runtime/Engine/Public/Animation/SkeletalMeshVertexAttribute.h \
+  Runtime/Engine/Public/PerPlatformProperties.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/SkeletalMeshVertexAttribute.generated.h \
+  Runtime/Engine/Public/Animation/SkinWeightProfile.h \
+  Runtime/Core/Public/Misc/CoreStats.h \
+  Runtime/Core/Public/HAL/UnrealMemory.h \
+  Runtime/RHI/Public/RHIGPUReadback.h Runtime/RHI/Public/DynamicRHI.h \
+  Runtime/Core/Public/Templates/UniquePtr.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/SkinWeightProfile.generated.h \
+  Runtime/Engine/Public/Rendering/SkeletalMeshRenderData.h \
+  Runtime/Engine/Public/Rendering/SkeletalMeshLODModel.h \
+  Runtime/Engine/Public/Rendering/SkeletalMeshModel.h \
+  Runtime/Engine/Classes/Materials/Material.h \
+  Runtime/Engine/Classes/Materials/MaterialInstanceDynamic.h \
+  Runtime/Engine/Public/Model.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRInput/Private/YvrXRInputFunctionLibrary.cpp \
   Runtime/Core/Public/Logging/MessageLog.h

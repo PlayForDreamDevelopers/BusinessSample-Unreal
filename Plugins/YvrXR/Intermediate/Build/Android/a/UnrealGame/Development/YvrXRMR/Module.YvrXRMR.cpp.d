@@ -1890,7 +1890,8 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   E:/AndroidSDK/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/bit \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Development/YvrXRMR/Module.YvrXRMR.cpp \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Development/YvrXRMR/Definitions.YvrXRMR.h \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Private/YvrXRAnchorComponent.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRMR/UHT/YvrXRAnchorComponent.gen.cpp \
+  Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Public/YvrXRAnchorComponent.h \
   Runtime/Core/Public/CoreMinimal.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Public/YvrXRMRTypes.h \
@@ -1906,15 +1907,43 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
   Runtime/Engine/Classes/Components/ActorComponent.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRMR/UHT/YvrXRAnchorComponent.generated.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRMR/UHT/YvrXRAsyncAnchorAction.gen.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Public/YvrXRAsyncAnchorAction.h \
+  Runtime/Engine/Classes/Kismet/BlueprintAsyncActionBase.h \
+  Runtime/CoreUObject/Public/UObject/Object.h \
+  Runtime/CoreUObject/Public/UObject/WeakObjectPtr.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/BlueprintAsyncActionBase.generated.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRMR/UHT/YvrXRAsyncAnchorAction.generated.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRMR/UHT/YvrXRMarkerComponent.gen.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Public/YvrXRMarkerComponent.h \
+  Runtime/Core/Public/Delegates/Delegate.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRMR/UHT/YvrXRMarkerComponent.generated.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRMR/UHT/YvrXRMR.init.gen.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRMR/UHT/YvrXRMRFunctionLibrary.gen.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Public/YvrXRMRFunctionLibrary.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Public/YvrXRSpaceMeshComponent.h \
+  Runtime/Engine/Classes/Components/SceneComponent.h \
+  ../Plugins/Runtime/ProceduralMeshComponent/Source/ProceduralMeshComponent/Public/ProceduralMeshComponent.h \
+  Runtime/Engine/Classes/Interfaces/Interface_CollisionDataProvider.h \
+  Runtime/Engine/Classes/Components/MeshComponent.h \
+  ../Plugins/Runtime/ProceduralMeshComponent/Intermediate/Build/Android/UnrealGame/Inc/ProceduralMeshComponent/UHT/ProceduralMeshComponent.generated.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Private/YvrXRSpaceMeshActor.h \
+  Runtime/Engine/Classes/GameFramework/Actor.h \
+  Runtime/Engine/Classes/Components/LineBatchComponent.h \
+  Runtime/Engine/Classes/Components/PrimitiveComponent.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/LineBatchComponent.generated.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRMR/UHT/YvrXRSpaceMeshActor.generated.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRMR/UHT/YvrXRSpaceMeshComponent.generated.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRMR/UHT/YvrXRMRFunctionLibrary.generated.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRMR/UHT/YvrXRMRTypes.gen.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRMR/UHT/YvrXRSpaceMeshActor.gen.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRMR/UHT/YvrXRSpaceMeshComponent.gen.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Private/YvrXRAnchorComponent.cpp \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Public/YvrXRAnchorManager.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMD.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMD_Layer.h \
   Runtime/Engine/Public/IStereoLayers.h \
   Runtime/Engine/Public/StereoLayerShapes.h Runtime/RHI/Public/RHI.h \
-  ../Plugins/Runtime/ProceduralMeshComponent/Source/ProceduralMeshComponent/Public/ProceduralMeshComponent.h \
-  Runtime/Engine/Classes/Interfaces/Interface_CollisionDataProvider.h \
-  Runtime/Engine/Classes/Components/MeshComponent.h \
-  ../Plugins/Runtime/ProceduralMeshComponent/Intermediate/Build/Android/UnrealGame/Inc/ProceduralMeshComponent/UHT/ProceduralMeshComponent.generated.h \
   ../Plugins/Runtime/XRBase/Source/XRBase/Public/XRSwapChain.h \
   Runtime/Core/Public/Containers/Array.h \
   Runtime/Core/Public/HAL/Platform.h \
@@ -1925,7 +1954,6 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   Runtime/HeadMountedDisplay/Public/IHeadMountedDisplay.h \
   Runtime/Core/Public/Modules/ModuleInterface.h \
   Runtime/HeadMountedDisplay/Public/HeadMountedDisplayTypes.h \
-  Runtime/Core/Public/Delegates/Delegate.h \
   Runtime/HeadMountedDisplay/Public/IMotionController.h \
   Runtime/CoreUObject/Public/UObject/ObjectPtr.h \
   Runtime/Core/Public/Features/IModularFeature.h \
@@ -1961,10 +1989,8 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   Runtime/Core/Public/HAL/ThreadSafeBool.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/AugmentedReality/UHT/ARTypes.generated.h \
   Runtime/AugmentedReality/Public/ARSessionConfig.h \
-  Runtime/CoreUObject/Public/UObject/Object.h \
   Runtime/AugmentedReality/Public/ARTrackable.h \
   Runtime/AugmentedReality/Public/ARComponent.h \
-  Runtime/Engine/Classes/Components/SceneComponent.h \
   Runtime/RenderCore/Public/PackedNormal.h \
   Runtime/MRMesh/Public/MRMeshBufferDefines.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/AugmentedReality/UHT/ARComponent.generated.h \
@@ -2006,13 +2032,18 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   Runtime/Core/Public/Templates/Function.h \
   Runtime/Core/Public/Templates/RefCounting.h \
   Runtime/HeadMountedDisplay/Public/IHeadMountedDisplayVulkanExtensions.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Private/YvrXRAnchorManager.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Private/YvrXRAsyncAnchorAction.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Private/YvrXRMarkerComponent.cpp \
+  Runtime/Core/Public/Misc/CoreDelegates.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Private/YvrXRMarkerManager.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Public/YvrXRMarkerManager.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Private/YvrXRMRFunctionLibrary.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Public/YvrXRSpaceMeshManager.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Private/YvrXRMRModule.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Private/YvrXRMRModule.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Public/IYvrXRMRModule.h \
+  Runtime/Core/Public/Modules/ModuleManager.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Private/YvrXRSpaceMeshActor.cpp \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Private/YvrXRSpaceMeshActor.h \
-  Runtime/Engine/Classes/GameFramework/Actor.h \
-  Runtime/Engine/Classes/Components/LineBatchComponent.h \
-  Runtime/Engine/Classes/Components/PrimitiveComponent.h \
-  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/LineBatchComponent.generated.h \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRMR/UHT/YvrXRSpaceMeshActor.generated.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Private/YvrXRSpaceMeshComponent.cpp \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Public/YvrXRSpaceMeshComponent.h \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRMR/UHT/YvrXRSpaceMeshComponent.generated.h
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRMR/Private/YvrXRSpaceMeshManager.cpp

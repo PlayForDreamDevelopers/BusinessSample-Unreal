@@ -1890,11 +1890,31 @@ E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Intermediate/Build/Android/a/UnrealGa
   E:/AndroidSDK/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/bit \
   E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Intermediate/Build/Android/a/UnrealGame/Development/YvrBusiness/Module.YvrBusiness.cpp \
   E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Intermediate/Build/Android/a/UnrealGame/Development/YvrBusiness/Definitions.YvrBusiness.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Intermediate/Build/Android/UnrealGame/Inc/YvrBusiness/UHT/YvrBusiness.init.gen.cpp \
+  Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Intermediate/Build/Android/UnrealGame/Inc/YvrBusiness/UHT/YvrBusinessBPLibrary.gen.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Source/Public/YvrBusinessBPLibrary.h \
+  Runtime/Engine/Classes/Kismet/BlueprintFunctionLibrary.h \
+  Runtime/Engine/Classes/Engine/TextureRenderTarget2D.h \
+  Runtime/Core/Public/CoreMinimal.h \
+  Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
+  Runtime/RenderCore/Public/RenderUtils.h \
+  Runtime/Engine/Classes/Engine/TextureRenderTarget.h \
+  Runtime/Engine/Classes/Engine/Texture.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/TextureRenderTarget.generated.h \
+  Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/TextureRenderTarget2D.generated.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Intermediate/Build/Android/UnrealGame/Inc/YvrBusiness/UHT/YvrBusinessBPLibrary.generated.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Intermediate/Build/Android/UnrealGame/Inc/YvrBusiness/UHT/YvrCameraComponent.gen.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Source/Public/YvrCameraComponent.h \
+  Runtime/Engine/Classes/Components/ActorComponent.h \
+  Runtime/Core/Public/Delegates/Delegate.h \
+  Runtime/Core/Public/Delegates/DelegateCombinations.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Intermediate/Build/Android/UnrealGame/Inc/YvrBusiness/UHT/YvrCameraComponent.generated.h \
   E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Source/Private/YvrBusiness.cpp \
   E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Source/Public/YvrBusiness.h \
   Runtime/Core/Public/Modules/ModuleManager.h \
   E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Source/Private/YvrBusinessWrapper.h \
-  Runtime/Core/Public/CoreMinimal.h \
   Runtime/Launch/Public/Android/AndroidJNI.h \
   E:/AndroidSDK/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/log.h \
   Runtime/ApplicationCore/Public/Android/AndroidApplication.h \
@@ -1928,4 +1948,9 @@ E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Intermediate/Build/Android/a/UnrealGa
   E:/AndroidSDK/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cwctype \
   E:/AndroidSDK/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/cctype \
   E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Include/pfdm_xr_tracking_camera_api.h \
-  E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Source/Private/YvrBusinessWrapper.cpp
+  E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Source/Private/YvrBusinessBPLibrary.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Source/Private/YvrBusinessWrapper.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Source/Private/YvrCameraComponent.cpp \
+  Runtime/Core/Public/Misc/CoreDelegates.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrBusiness/Source/Private/YvrInterfaceWrapper.cpp \
+  E:/AndroidSDK/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/dlfcn.h

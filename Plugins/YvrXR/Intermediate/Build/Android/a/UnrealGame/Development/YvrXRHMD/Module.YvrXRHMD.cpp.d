@@ -1890,26 +1890,25 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   E:/AndroidSDK/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/bit \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Development/YvrXRHMD/Module.YvrXRHMD.cpp \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Development/YvrXRHMD/Definitions.YvrXRHMD.h \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRCore.cpp \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Public/YvrXRCore.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRHMD/UHT/YvrXRFunctionLibrary.gen.cpp \
+  Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Public/YvrXRFunctionLibrary.h \
   Runtime/Core/Public/CoreMinimal.h \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Include/openxr.h \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Include/openxr_platform_defines.h \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Include/openxr_reflection.h \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Include/openxr_yvr.h \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Include/openxr_extension_helpers.h \
+  Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
+  Runtime/Engine/Classes/Kismet/BlueprintFunctionLibrary.h \
+  ../Plugins/Runtime/XRBase/Source/XRBase/Public/HeadMountedDisplayBase.h \
+  Runtime/HeadMountedDisplay/Public/IHeadMountedDisplay.h \
+  Runtime/Core/Public/Modules/ModuleInterface.h \
   Runtime/HeadMountedDisplay/Public/HeadMountedDisplayTypes.h \
   Runtime/Core/Public/Containers/Array.h \
   Runtime/Core/Public/Delegates/Delegate.h \
   Runtime/HeadMountedDisplay/Public/IMotionController.h \
-  Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
   Runtime/CoreUObject/Public/UObject/ObjectPtr.h \
   Runtime/Core/Public/Features/IModularFeature.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/HeadMountedDisplay/UHT/IMotionController.generated.h \
   Runtime/CoreUObject/Public/Templates/IsUEnumClass.h \
   Runtime/CoreUObject/Public/UObject/ReflectedTypeAccessors.h \
   Runtime/InputCore/Classes/InputCoreTypes.h \
-  Runtime/Engine/Classes/Kismet/BlueprintFunctionLibrary.h \
   Runtime/Core/Public/Logging/LogCategory.h \
   Runtime/Core/Public/Logging/LogMacros.h \
   Runtime/Core/Public/Math/IntRect.h Runtime/Core/Public/Math/Quat.h \
@@ -1922,13 +1921,6 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   Runtime/CoreUObject/Public/UObject/UObjectGlobals.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/HeadMountedDisplay/UHT/HeadMountedDisplayTypes.generated.h \
   Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMDSettings.cpp \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMDSettings.h \
-  Runtime/CoreUObject/Public/UObject/Object.h \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Public/YvrXRFunctionLibrary.h \
-  ../Plugins/Runtime/XRBase/Source/XRBase/Public/HeadMountedDisplayBase.h \
-  Runtime/HeadMountedDisplay/Public/IHeadMountedDisplay.h \
-  Runtime/Core/Public/Modules/ModuleInterface.h \
   Runtime/Engine/Public/StereoRendering.h \
   Runtime/HeadMountedDisplay/Public/LateUpdateManager.h \
   Runtime/Engine/Public/SceneInterface.h \
@@ -1947,6 +1939,7 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   Runtime/Core/Public/HAL/ThreadSafeBool.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/AugmentedReality/UHT/ARTypes.generated.h \
   Runtime/AugmentedReality/Public/ARSessionConfig.h \
+  Runtime/CoreUObject/Public/UObject/Object.h \
   Runtime/AugmentedReality/Public/ARTrackable.h \
   Runtime/AugmentedReality/Public/ARComponent.h \
   Runtime/Engine/Classes/Components/SceneComponent.h \
@@ -1966,94 +1959,19 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   Runtime/HeadMountedDisplay/Public/ISpectatorScreenController.h \
   Runtime/Core/Public/UObject/WeakObjectPtrTemplates.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRHMD/UHT/YvrXRFunctionLibrary.generated.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRHMD/UHT/YvrXRHMD.init.gen.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRHMD/UHT/YvrXRHMDSettings.gen.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMDSettings.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/UnrealGame/Inc/YvrXRHMD/UHT/YvrXRHMDSettings.generated.h \
-  Runtime/Engine/Classes/Engine/RendererSettings.h \
-  Runtime/Engine/Classes/Engine/EngineTypes.h \
-  Runtime/Engine/Classes/Engine/Scene.h \
-  Runtime/DeveloperSettings/Public/Engine/DeveloperSettings.h \
-  Runtime/Core/Public/PixelFormat.h \
-  Runtime/Engine/Public/PerPlatformProperties.h \
-  Runtime/Engine/Public/LegacyScreenPercentageDriver.h \
-  Runtime/Engine/Public/SceneView.h \
-  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/LegacyScreenPercentageDriver.generated.h \
-  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/RendererSettings.generated.h \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMD_DynamicResolutionState.cpp \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMD_DynamicResolutionState.h \
-  Runtime/Engine/Public/DynamicResolutionState.h \
-  Runtime/RenderCore/Public/DynamicRenderScaling.h \
-  Runtime/Renderer/Public/TemporalUpscaler.h \
-  Runtime/Renderer/Public/ScreenPass.h \
-  Runtime/Engine/Public/CanvasTypes.h Runtime/Engine/Public/GameTime.h \
-  Runtime/Engine/Public/SceneTypes.h Runtime/Engine/Public/HitProxies.h \
-  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/CanvasTypes.generated.h \
-  Runtime/RenderCore/Public/CommonRenderResources.h \
-  Runtime/RenderCore/Public/GlobalShader.h \
-  Runtime/Core/Public/Math/Vector4.h \
-  Runtime/RHI/Public/PipelineStateCache.h \
-  Runtime/RHI/Public/RHIDefinitions.h \
-  Runtime/RenderCore/Public/RenderResource.h \
-  Runtime/Core/Public/Serialization/MemoryLayout.h \
-  Runtime/RenderCore/Public/Shader.h \
-  Runtime/RenderCore/Public/ShaderParameterMacros.h \
-  Runtime/RenderCore/Public/ShaderParameterStruct.h \
-  Runtime/Core/Public/Misc/AssertionMacros.h \
-  Runtime/RenderCore/Public/RenderGraphResources.h \
-  Runtime/Core/Public/Math/NumericLimits.h \
-  Runtime/Core/Public/Misc/EnumClassFlags.h \
-  Runtime/RHI/Public/RHITransientResourceAllocator.h \
-  Runtime/RenderCore/Public/RenderGraphAllocator.h \
-  Runtime/RenderCore/Public/RenderGraphDefinitions.h \
-  Runtime/RenderCore/Public/RenderGraphParameter.h \
-  Runtime/RenderCore/Public/RenderGraphTextureSubresource.h \
-  Runtime/Core/Public/Templates/Function.h \
-  Runtime/Core/Public/Templates/RefCounting.h \
-  Runtime/Core/Public/Templates/UnrealTemplate.h \
-  Runtime/RenderCore/Public/RenderGraphResources.inl \
-  Runtime/Core/Public/Serialization/MemoryImage.h \
-  Runtime/RenderCore/Public/RenderGraphBuilder.h \
-  Runtime/Core/Public/Containers/ArrayView.h \
-  Runtime/Core/Public/Containers/Map.h \
-  Runtime/Core/Public/Containers/Set.h \
-  Runtime/Core/Public/Containers/SortedMap.h \
-  Runtime/Core/Public/Containers/UnrealString.h \
-  Runtime/Core/Public/Containers/StridedView.h \
-  Runtime/Core/Public/CoreTypes.h Runtime/RHI/Public/MultiGPU.h \
-  Runtime/Core/Public/ProfilingDebugging/CsvProfiler.h \
-  Runtime/RHI/Public/RHIBreadcrumbs.h \
-  Runtime/RenderCore/Public/RenderGraphBlackboard.h \
-  Runtime/Core/Public/HAL/PlatformMath.h \
-  Runtime/Core/Public/Misc/GeneratedTypeName.h \
-  Runtime/Core/Public/Delegates/IntegerSequence.h \
-  Runtime/RenderCore/Public/RenderGraphEvent.h \
-  Runtime/Core/Public/Containers/StaticArray.h \
-  Runtime/Core/Public/HAL/PlatformCrt.h \
-  Runtime/Core/Public/ProfilingDebugging/CsvProfilerConfig.h \
-  Runtime/RenderCore/Public/ProfilingDebugging/RealtimeGPUProfiler.h \
-  Runtime/RHI/Public/RHICommandList.h Runtime/Core/Public/Stats/Stats2.h \
-  Runtime/RenderCore/Public/RenderGraphEvent.inl \
-  Runtime/RenderCore/Public/RenderGraphPass.h \
-  Runtime/Core/Public/Containers/ContainerAllocationPolicies.h \
-  Runtime/Core/Public/Stats/Stats.h \
-  Runtime/Core/Public/Templates/EnableIf.h \
-  Runtime/Core/Public/Templates/UnrealTypeTraits.h \
-  Runtime/RenderCore/Public/RenderGraphParameters.inl \
-  Runtime/RenderCore/Public/RenderGraphTrace.h \
-  Runtime/TraceLog/Public/Trace/Trace.h \
-  Runtime/RenderCore/Public/RenderGraphValidation.h \
-  Runtime/Core/Public/Containers/SparseArray.h \
-  Runtime/Core/Public/Tasks/Pipe.h \
-  Runtime/Core/Public/Experimental/Containers/RobinHoodHashTable.h \
-  Runtime/RenderCore/Public/RenderGraphBuilder.inl \
-  Runtime/RenderCore/Public/RenderGraphUtils.h \
-  Runtime/Core/Public/Containers/ContainersFwd.h \
-  Runtime/Core/Public/HAL/UnrealMemory.h \
-  Runtime/Core/Public/Math/Color.h Runtime/Core/Public/Math/IntPoint.h \
-  Runtime/Core/Public/Math/IntVector.h \
-  Runtime/Core/Public/Misc/Optional.h \
-  Runtime/Core/Public/Templates/Invoke.h \
-  Runtime/RenderCore/Public/RHIStaticStates.h \
-  Runtime/Renderer/Public/ScreenPass.inl \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMD_Layer.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRCore.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Public/YvrXRCore.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Include/openxr.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Include/openxr_platform_defines.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Include/openxr_reflection.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Include/openxr_yvr.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Include/openxr_extension_helpers.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRFunctionLibrary.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMD.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMD_Layer.h \
   Runtime/Engine/Public/IStereoLayers.h \
   Runtime/Engine/Public/StereoLayerShapes.h \
@@ -2062,11 +1980,13 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   Runtime/Engine/Classes/Components/MeshComponent.h \
   ../Plugins/Runtime/ProceduralMeshComponent/Intermediate/Build/Android/UnrealGame/Inc/ProceduralMeshComponent/UHT/ProceduralMeshComponent.generated.h \
   ../Plugins/Runtime/XRBase/Source/XRBase/Public/XRSwapChain.h \
+  Runtime/Core/Public/Misc/AssertionMacros.h \
   Runtime/Core/Public/Templates/SharedPointer.h \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMD.h \
+  Runtime/Core/Public/Templates/UnrealTemplate.h \
   ../Plugins/Runtime/XRBase/Source/XRBase/Public/XRRenderTargetManager.h \
   Runtime/Engine/Public/StereoRenderTargetManager.h \
   Runtime/Engine/Classes/Engine/GameViewportClient.h \
+  Runtime/Core/Public/PixelFormat.h \
   ../Plugins/Runtime/XRBase/Source/XRBase/Public/XRRenderBridge.h \
   Runtime/Engine/Public/SceneViewExtension.h \
   Runtime/Core/Public/Delegates/DelegateCombinations.h \
@@ -2075,16 +1995,27 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   Runtime/Engine/Public/ViewportClient.h \
   ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/SceneViewExtensionContext.generated.h \
   Runtime/Engine/Public/SceneTexturesConfig.h \
+  Runtime/RenderCore/Public/RenderGraphDefinitions.h \
+  Runtime/RenderCore/Public/ShaderParameterMacros.h \
   Runtime/RenderCore/Public/GBufferInfo.h \
+  Runtime/Core/Public/Containers/UnrealString.h \
+  Runtime/RHI/Public/RHIDefinitions.h \
   Runtime/RHI/Public/RHIShaderPlatform.h \
   Runtime/Engine/Public/SceneUtils.h \
   ../Plugins/Runtime/XRBase/Source/XRBase/Public/StereoLayerManager.h \
+  Runtime/Core/Public/Containers/Map.h \
   Runtime/Core/Public/HAL/CriticalSection.h \
   Runtime/HeadMountedDisplay/Public/IXRLoadingScreen.h \
   Runtime/Core/Public/Misc/ScopeLock.h \
+  Runtime/Core/Public/Templates/Function.h \
+  Runtime/Core/Public/Templates/RefCounting.h \
   Runtime/HeadMountedDisplay/Public/IHeadMountedDisplayVulkanExtensions.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMD.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Public/YvrXRHMD_RenderBridge.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Public/YvrXRPlatformRHI.h \
   Runtime/OpenGLDrv/Private/OpenGLDrvPrivate.h \
+  Runtime/Core/Public/Stats/Stats.h \
+  Runtime/RenderCore/Public/RenderResource.h \
   Runtime/OpenGLDrv/Public/OpenGLDrv.h \
   Runtime/Core/Public/Containers/IndirectArray.h \
   Runtime/OpenGLDrv/Public/IOpenGLDynamicRHI.h \
@@ -2105,6 +2036,7 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   E:/AndroidSDK/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/GLES3/gl31.h \
   E:/AndroidSDK/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/GLES3/gl3platform.h \
   Runtime/RHI/Public/GPUProfiler.h \
+  Runtime/Core/Public/Templates/EnableIf.h \
   Runtime/RHICore/Public/BoundShaderStateHistory.h \
   Runtime/RHI/Public/RHIGlobals.h \
   Runtime/OpenGLDrv/Private/Android/AndroidOpenGL.h \
@@ -2113,12 +2045,19 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   Runtime/OpenGLDrv/Private/Android/AndroidEGL.h \
   E:/AndroidSDK/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/GLES2/gl2ext.h \
   Runtime/OpenGLDrv/Public/OpenGLES.h Runtime/OpenGLDrv/Public/OpenGL.h \
+  Runtime/Core/Public/Containers/ContainersFwd.h \
   Runtime/OpenGLDrv/Public/OpenGLUtil.h \
-  Runtime/OpenGLDrv/Public/OpenGLState.h \
+  Runtime/RHI/Public/RHICommandList.h \
+  Runtime/OpenGLDrv/Public/OpenGLState.h Runtime/Core/Public/CoreTypes.h \
+  Runtime/Core/Public/HAL/UnrealMemory.h \
+  Runtime/Core/Public/Math/Color.h \
+  Runtime/Core/Public/Containers/StaticArray.h \
   Runtime/OpenGLDrv/Public/OpenGLResources.h \
   Runtime/Core/Public/HAL/LowLevelMemTracker.h \
+  Runtime/Core/Public/Containers/ContainerAllocationPolicies.h \
   Runtime/Core/Public/Math/UnrealMathUtility.h \
   Runtime/Core/Public/Containers/BitArray.h \
+  Runtime/Core/Public/Math/IntPoint.h \
   Runtime/Core/Public/Misc/CommandLine.h \
   Runtime/RHI/Public/BoundShaderStateCache.h \
   Runtime/OpenGLDrv/Public/OpenGLShaderResources.h \
@@ -2128,7 +2067,11 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   Runtime/RenderCore/Public/CrossCompilerCommon.h \
   Runtime/RenderCore/Public/ShaderCompilerCore.h \
   Runtime/RenderCore/Public/ShaderCodeLibrary.h \
+  Runtime/Core/Public/Containers/ArrayView.h \
+  Runtime/Core/Public/Containers/Set.h \
+  Runtime/Core/Public/Containers/SparseArray.h \
   Runtime/Core/Public/Containers/StringFwd.h \
+  Runtime/Core/Public/HAL/PlatformCrt.h \
   Runtime/Core/Public/Serialization/Archive.h \
   Runtime/Core/Public/Async/AsyncFileHandle.h \
   Runtime/RenderCore/Public/ShaderPipelineCache.h \
@@ -2178,6 +2121,7 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   Runtime/VulkanRHI/Private/VulkanQueue.h \
   Runtime/VulkanRHI/Private/VulkanBarriers.h \
   Runtime/VulkanRHI/Private/VulkanCommandBuffer.h \
+  Runtime/Core/Public/Stats/Stats2.h \
   E:/AndroidSDK/ndk/25.1.8937393/sources/android/native_app_glue/android_native_app_glue.h \
   E:/AndroidSDK/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/poll.h \
   E:/AndroidSDK/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/linux/poll.h \
@@ -2192,10 +2136,236 @@ E:/UE5_Project/VSTTest/Plugins/YvrXR/Intermediate/Build/Android/a/UnrealGame/Dev
   E:/AndroidSDK/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/android/keycodes.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Include/openxr_platform.h \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Public/YvrXRHMD_Swapchain.h \
-  Runtime/Engine/Classes/Materials/MaterialInstanceDynamic.h \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMD_RenderBridge.cpp \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Public/YvrXRHMD_RenderBridge.h \
-  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRShaders.cpp \
   E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Public/YvrXRShaders.h \
   Runtime/RenderCore/Public/ShaderParameters.h \
-  Runtime/RenderCore/Public/ShaderParameterUtils.h
+  Runtime/RenderCore/Public/Shader.h \
+  Runtime/RenderCore/Public/GlobalShader.h \
+  Runtime/RenderCore/Public/ShaderParameterUtils.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMD_DynamicResolutionState.h \
+  Runtime/Engine/Public/DynamicResolutionState.h \
+  Runtime/Engine/Classes/Engine/EngineTypes.h \
+  Runtime/RenderCore/Public/DynamicRenderScaling.h \
+  Runtime/Renderer/Public/TemporalUpscaler.h \
+  Runtime/Renderer/Public/ScreenPass.h \
+  Runtime/Engine/Public/CanvasTypes.h Runtime/Engine/Public/GameTime.h \
+  Runtime/Engine/Public/SceneTypes.h Runtime/Engine/Public/HitProxies.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/CanvasTypes.generated.h \
+  Runtime/RenderCore/Public/CommonRenderResources.h \
+  Runtime/Core/Public/Math/Vector4.h \
+  Runtime/RHI/Public/PipelineStateCache.h \
+  Runtime/Core/Public/Serialization/MemoryLayout.h \
+  Runtime/RenderCore/Public/ShaderParameterStruct.h \
+  Runtime/RenderCore/Public/RenderGraphResources.h \
+  Runtime/Core/Public/Math/NumericLimits.h \
+  Runtime/Core/Public/Misc/EnumClassFlags.h \
+  Runtime/RHI/Public/RHITransientResourceAllocator.h \
+  Runtime/RenderCore/Public/RenderGraphAllocator.h \
+  Runtime/RenderCore/Public/RenderGraphParameter.h \
+  Runtime/RenderCore/Public/RenderGraphTextureSubresource.h \
+  Runtime/RenderCore/Public/RenderGraphResources.inl \
+  Runtime/Core/Public/Serialization/MemoryImage.h \
+  Runtime/RenderCore/Public/RenderGraphBuilder.h \
+  Runtime/Core/Public/Containers/SortedMap.h \
+  Runtime/Core/Public/Containers/StridedView.h \
+  Runtime/RHI/Public/MultiGPU.h \
+  Runtime/Core/Public/ProfilingDebugging/CsvProfiler.h \
+  Runtime/RHI/Public/RHIBreadcrumbs.h \
+  Runtime/RenderCore/Public/RenderGraphBlackboard.h \
+  Runtime/Core/Public/HAL/PlatformMath.h \
+  Runtime/Core/Public/Misc/GeneratedTypeName.h \
+  Runtime/Core/Public/Delegates/IntegerSequence.h \
+  Runtime/RenderCore/Public/RenderGraphEvent.h \
+  Runtime/Core/Public/ProfilingDebugging/CsvProfilerConfig.h \
+  Runtime/RenderCore/Public/ProfilingDebugging/RealtimeGPUProfiler.h \
+  Runtime/RenderCore/Public/RenderGraphEvent.inl \
+  Runtime/RenderCore/Public/RenderGraphPass.h \
+  Runtime/Core/Public/Templates/UnrealTypeTraits.h \
+  Runtime/RenderCore/Public/RenderGraphParameters.inl \
+  Runtime/RenderCore/Public/RenderGraphTrace.h \
+  Runtime/TraceLog/Public/Trace/Trace.h \
+  Runtime/RenderCore/Public/RenderGraphValidation.h \
+  Runtime/Core/Public/Tasks/Pipe.h \
+  Runtime/Core/Public/Experimental/Containers/RobinHoodHashTable.h \
+  Runtime/RenderCore/Public/RenderGraphBuilder.inl \
+  Runtime/RenderCore/Public/RenderGraphUtils.h \
+  Runtime/Core/Public/Math/IntVector.h \
+  Runtime/Core/Public/Misc/Optional.h \
+  Runtime/Core/Public/Templates/Invoke.h \
+  Runtime/RenderCore/Public/RHIStaticStates.h \
+  Runtime/Engine/Public/SceneView.h \
+  Runtime/Renderer/Public/ScreenPass.inl Runtime/Core/Public/Misc/App.h \
+  Runtime/Core/Public/Misc/Parse.h \
+  Runtime/Core/Public/Modules/ModuleManager.h \
+  Runtime/Engine/Public/EngineGlobals.h \
+  Runtime/Engine/Classes/GameFramework/PlayerController.h \
+  Runtime/Engine/Classes/Engine/LocalPlayer.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Public/IYvrXRHMDPlugin.h \
+  Runtime/HeadMountedDisplay/Public/IHeadMountedDisplayModule.h \
+  Runtime/Core/Public/Features/IModularFeatures.h \
+  Runtime/Renderer/Private/SceneRendering.h \
+  Runtime/Renderer/Public/SceneRendererInterface.h \
+  Runtime/RenderCore/Public/ShaderParameterStructDeclaration.h \
+  Runtime/RenderCore/Public/UniformBuffer.h \
+  Runtime/Renderer/Private/GlobalDistanceField.h \
+  Runtime/Renderer/Public/GlobalDistanceFieldParameters.h \
+  Runtime/Renderer/Public/GlobalDistanceFieldConstants.h \
+  Runtime/RenderCore/Public/GlobalRenderResources.h \
+  Runtime/Engine/Public/BatchedElements.h \
+  Runtime/Engine/Public/MeshBatch.h \
+  Runtime/Renderer/Private/ScenePrivateBase.h \
+  Runtime/Renderer/Private/SceneVisibility.h \
+  Runtime/Renderer/Public/StaticMeshBatch.h \
+  Runtime/Renderer/Public/MeshPassProcessor.h \
+  Runtime/Renderer/Public/MeshDrawShaderBindings.h \
+  Runtime/Renderer/Public/MeshMaterialShader.h \
+  Runtime/Engine/Public/MeshMaterialShaderType.h \
+  Runtime/Renderer/Public/MaterialShader.h \
+  Runtime/Engine/Public/MaterialShaderType.h \
+  Runtime/Engine/Public/MaterialShared.h Runtime/RHI/Public/RHIFwd.h \
+  Runtime/Engine/Public/MeshDrawCommandStatsDefines.h \
+  Runtime/Engine/Public/PSOPrecacheMaterial.h \
+  Runtime/Engine/Public/PSOPrecache.h \
+  Runtime/Core/Public/Hash/CityHash.h \
+  Runtime/RHI/Public/RHIImmutableSamplerState.h \
+  Runtime/Core/Public/Tasks/Task.h \
+  Runtime/Renderer/Public/PrimitiveSceneInfo.h \
+  Runtime/RenderCore/Public/RenderDeferredCleanup.h \
+  Runtime/Core/Public/Math/GenericOctreePublic.h \
+  Runtime/Engine/Public/PrimitiveComponentId.h \
+  Runtime/Engine/Public/PrimitiveDirtyState.h \
+  Runtime/Engine/Public/PrimitiveViewRelevance.h \
+  Runtime/Renderer/Private/LightShaftRendering.h \
+  Runtime/RenderCore/Public/StaticBoundShaderState.h \
+  Runtime/Core/Public/Templates/UniquePtr.h \
+  Runtime/Renderer/Private/MeshDrawCommands.h \
+  Runtime/Renderer/Internal/TranslucentPassResource.h \
+  Runtime/Renderer/Public/SystemTextures.h \
+  Runtime/RenderCore/Public/RenderGraph.h \
+  Runtime/Renderer/Public/InstanceCulling/InstanceCullingContext.h \
+  Runtime/Renderer/Private/InstanceCulling/InstanceCullingManager.h \
+  Runtime/Renderer/Private/InstanceCulling/InstanceCullingLoadBalancer.h \
+  Runtime/Core/Public/Async/Mutex.h \
+  Runtime/Renderer/Public/ShaderPrintParameters.h \
+  Runtime/Renderer/Private/PostProcess/PostProcessAmbientOcclusionMobile.h \
+  Runtime/Renderer/Private/VirtualShadowMaps/VirtualShadowMapArray.h \
+  Runtime/Engine/Public/SceneManagement.h \
+  ../Shaders/Shared/VirtualShadowMapDefinitions.h \
+  ../Shaders/Shared/HLSLTypeAliases.h Runtime/Core/Public/Math/MathFwd.h \
+  Runtime/Core/Public/Misc/LargeWorldRenderPosition.h \
+  Runtime/Renderer/Private/VirtualShadowMaps/VirtualShadowMapProjection.h \
+  Runtime/RenderCore/Public/RenderGraphFwd.h \
+  Runtime/Core/Public/Templates/SharedPointerFwd.h \
+  Runtime/Renderer/Private/Lumen/LumenTranslucencyVolumeLighting.h \
+  Runtime/Renderer/Private/Lumen/LumenRadianceCacheInterpolation.h \
+  Runtime/Renderer/Private/Lumen/LumenFrontLayerTranslucency.h \
+  Runtime/Renderer/Private/HairStrands/HairStrandsData.h \
+  Runtime/RHI/Public/RHIGPUReadback.h Runtime/RHI/Public/DynamicRHI.h \
+  Runtime/Engine/Public/ConvexVolume.h \
+  ../Shaders/Shared/HairStrandsDefinitions.h \
+  Runtime/Renderer/Public/HairStrandsInterface.h \
+  Runtime/Engine/Public/GroomVisualizationData.h \
+  Runtime/Engine/Public/CachedGeometry.h \
+  Runtime/Renderer/Private/Substrate/Substrate.h \
+  Runtime/RenderCore/Public/UnifiedBuffer.h \
+  Runtime/Core/Public/Containers/DynamicRHIResourceArray.h \
+  Runtime/Core/Public/GenericPlatform/GenericPlatformMemory.h \
+  Runtime/RHI/Public/RHIUtilities.h \
+  ../Shaders/Shared/SubstrateDefinitions.h \
+  Runtime/Renderer/Public/RendererUtils.h \
+  Runtime/Renderer/Private/GPUScene.h \
+  Runtime/Engine/Public/PrimitiveUniformShaderParameters.h \
+  Runtime/Engine/Public/SpanAllocator.h \
+  Runtime/Engine/Public/GrowOnlySpanAllocator.h \
+  ../Shaders/Shared/LightSceneData.h \
+  Runtime/Renderer/Public/SceneUniformBuffer.h \
+  Runtime/RenderCore/Public/ShaderParameterMetadata.h \
+  Runtime/RenderCore/Public/ShaderParameterMetadataBuilder.h \
+  Runtime/Core/Public/Templates/AlignmentTemplates.h \
+  Runtime/RenderCore/Public/RenderCore.h \
+  Runtime/Renderer/Internal/SceneTextures.h \
+  Runtime/Renderer/Internal/CustomDepthRendering.h \
+  Runtime/Renderer/Public/SceneRenderTargetParameters.h \
+  Runtime/Renderer/Private/TranslucencyPass.h \
+  Runtime/Renderer/Public/TextureFallbacks.h \
+  Runtime/Renderer/Private/LocalFogVolumeRendering.h \
+  Runtime/Engine/Public/EngineDefines.h \
+  Runtime/Renderer/Private/Nanite/NaniteShared.h \
+  Runtime/Engine/Public/Rendering/NaniteResources.h \
+  Runtime/Core/Public/IO/IoHash.h \
+  Runtime/Engine/Classes/Materials/MaterialInterface.h \
+  Runtime/CoreUObject/Public/Serialization/BulkData.h \
+  Runtime/Core/Public/Misc/MemoryReadStream.h \
+  Runtime/Core/Public/HAL/ThreadSafeCounter.h \
+  ../Shaders/Shared/NaniteDefinitions.h \
+  Runtime/Core/Public/Templates/DontCopy.h \
+  Runtime/RenderCore/Public/VertexFactory.h \
+  Runtime/Renderer/Private/Nanite/NaniteFeedback.h \
+  Runtime/RenderCore/Public/GPUMessaging.h \
+  Runtime/Engine/Public/MaterialDomain.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/MaterialDomain.generated.h \
+  Runtime/Renderer/Private/LightMapRendering.h \
+  Runtime/Engine/Public/LightmapUniformShaderParameters.h \
+  Runtime/Renderer/Private/LightFunctionAtlas.h \
+  Runtime/Engine/Public/LightSceneProxy.h \
+  Runtime/Engine/Classes/GameFramework/Actor.h \
+  Runtime/Renderer/Private/SceneExtensions.h \
+  Runtime/Renderer/Public/RayTracingInstanceBufferUtil.h \
+  Runtime/Renderer/Public/PostProcess/PostProcessHMD.h \
+  Runtime/Engine/Classes/GameFramework/WorldSettings.h \
+  Runtime/Core/Public/Misc/CString.h \
+  Runtime/RenderCore/Public/ClearQuad.h \
+  ../Plugins/Runtime/XRBase/Source/XRBase/Public/XRThreadUtils.h \
+  Runtime/Core/Public/HAL/RunnableThread.h \
+  Runtime/Engine/Public/Slate/SceneViewport.h \
+  Runtime/SlateCore/Public/Layout/Geometry.h \
+  Runtime/SlateCore/Public/Input/CursorReply.h \
+  Runtime/SlateCore/Public/Input/Reply.h \
+  Runtime/SlateCore/Public/Input/PopupMethodReply.h \
+  Runtime/SlateCore/Public/Widgets/SWidget.h \
+  Runtime/SlateCore/Public/Rendering/RenderingCommon.h \
+  Runtime/SlateCore/Public/Textures/SlateShaderResource.h \
+  Runtime/Engine/Classes/Engine/GameEngine.h \
+  Runtime/SlateCore/Public/Widgets/SWindow.h \
+  Runtime/Slate/Public/Widgets/SViewport.h \
+  Runtime/Core/Public/Misc/Attribute.h \
+  Runtime/SlateCore/Public/Widgets/DeclarativeSyntaxSupport.h \
+  Runtime/SlateCore/Public/Input/NavigationReply.h \
+  Runtime/SlateCore/Public/Widgets/SCompoundWidget.h \
+  Runtime/MovieSceneCapture/Public/MovieSceneCaptureHandle.h \
+  Runtime/Core/Public/Templates/PimplPtr.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/GameEngine.generated.h \
+  Runtime/BuildSettings/Public/BuildSettings.h \
+  Runtime/HeadMountedDisplay/Public/IHandTracker.h \
+  Runtime/Core/Public/Math/Transform.h \
+  Runtime/RenderCore/Public/PixelShaderUtils.h \
+  Runtime/RenderCore/Public/ShaderPermutation.h \
+  Runtime/Engine/Public/ScreenRendering.h \
+  Runtime/RenderCore/Public/StereoRenderUtils.h \
+  Runtime/Projects/Public/Interfaces/IPluginManager.h \
+  Runtime/Projects/Public/PluginDescriptor.h \
+  Runtime/Projects/Public/CustomBuildSteps.h \
+  Runtime/Json/Public/Serialization/JsonWriter.h \
+  Runtime/Projects/Public/LocalizationDescriptor.h \
+  Runtime/Projects/Public/ModuleDescriptor.h \
+  Runtime/Core/Public/HAL/PlatformMisc.h \
+  Runtime/Core/Public/UObject/UnrealNames.h \
+  Runtime/Projects/Public/PluginDisallowedDescriptor.h \
+  Runtime/Projects/Public/PluginReferenceDescriptor.h \
+  Runtime/Projects/Public/VerseScope.h \
+  Runtime/Core/Public/Containers/VersePathFwd.h \
+  Runtime/Core/Public/Android/AndroidPlatformMisc.h \
+  E:/AndroidSDK/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/dlfcn.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMDSettings.cpp \
+  Runtime/Engine/Classes/Engine/RendererSettings.h \
+  Runtime/Engine/Classes/Engine/Scene.h \
+  Runtime/DeveloperSettings/Public/Engine/DeveloperSettings.h \
+  Runtime/Engine/Public/PerPlatformProperties.h \
+  Runtime/Engine/Public/LegacyScreenPercentageDriver.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/LegacyScreenPercentageDriver.generated.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/RendererSettings.generated.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMD_DynamicResolutionState.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMD_Layer.cpp \
+  Runtime/Engine/Classes/Materials/MaterialInstanceDynamic.h \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMD_RenderBridge.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRHMD_Swapchain.cpp \
+  E:/UE5_Project/VSTTest/Plugins/YvrXR/Source/YvrXRHMD/Private/YvrXRShaders.cpp

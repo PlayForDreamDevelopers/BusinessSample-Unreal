@@ -1890,20 +1890,44 @@ E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/a/U
   E:/AndroidSDK/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/include/c++/v1/bit \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/a/UnrealGame/Development/OnlineSubsystemYvr/Module.OnlineSubsystemYvr.cpp \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/a/UnrealGame/Development/OnlineSubsystemYvr/Definitions.OnlineSubsystemYvr.h \
-  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineAchievementsYvr.cpp \
-  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineAchievementsYvr.h \
-  ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlineAchievementsInterface.h \
-  Runtime/Core/Public/Misc/DateTime.h \
-  ../Plugins/Online/OnlineSubsystem/Source/Public/OnlineDelegateMacros.h \
-  ../Plugins/Online/OnlineSubsystem/Source/Public/OnlineStats.h \
+  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/UnrealGame/Inc/OnlineSubsystemYvr/UHT/OnlineSettingsYvr.gen.cpp \
+  Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
+  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineSettingsYvr.h \
+  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/UnrealGame/Inc/OnlineSubsystemYvr/UHT/OnlineSettingsYvr.generated.h \
+  Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
+  Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
+  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/UnrealGame/Inc/OnlineSubsystemYvr/UHT/OnlineSubsystemYvr.init.gen.cpp \
+  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/UnrealGame/Inc/OnlineSubsystemYvr/UHT/OnlineSubsystemYvrLibrary.gen.cpp \
+  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Public/OnlineSubsystemYvrLibrary.h \
+  Runtime/Core/Public/CoreMinimal.h \
+  Runtime/Engine/Classes/Kismet/BlueprintFunctionLibrary.h \
+  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/UnrealGame/Inc/OnlineSubsystemYvr/UHT/OnlineSubsystemYvrLibrary.generated.h \
+  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/UnrealGame/Inc/OnlineSubsystemYvr/UHT/YvrEntitlementCallbackProxy.gen.cpp \
+  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Classes/YvrEntitlementCallbackProxy.h \
+  Runtime/CoreUObject/Public/UObject/Object.h \
+  Runtime/Engine/Public/Net/OnlineBlueprintCallProxyBase.h \
+  Runtime/Engine/Classes/Kismet/BlueprintAsyncActionBase.h \
+  Runtime/CoreUObject/Public/UObject/WeakObjectPtr.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/BlueprintAsyncActionBase.generated.h \
+  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/OnlineBlueprintCallProxyBase.generated.h \
+  ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlineIdentityInterface.h \
   ../Plugins/Online/OnlineSubsystem/Source/Public/OnlineSubsystemTypes.h \
   Runtime/CoreOnline/Public/Online/CoreOnline.h \
   ../Plugins/Online/OnlineSubsystem/Source/Public/OnlineSubsystemNames.h \
   Runtime/Core/Public/UObject/NameTypes.h \
+  ../Plugins/Online/OnlineSubsystem/Source/Public/OnlineDelegateMacros.h \
+  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/UnrealGame/Inc/OnlineSubsystemYvr/UHT/YvrEntitlementCallbackProxy.generated.h \
+  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/UnrealGame/Inc/OnlineSubsystemYvr/UHT/YvrIdentityCallbackProxy.gen.cpp \
+  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Classes/YvrIdentityCallbackProxy.h \
+  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/UnrealGame/Inc/OnlineSubsystemYvr/UHT/YvrIdentityCallbackProxy.generated.h \
+  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineAchievementsYvr.cpp \
+  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineAchievementsYvr.h \
+  ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlineAchievementsInterface.h \
+  Runtime/Core/Public/Misc/DateTime.h \
+  ../Plugins/Online/OnlineSubsystem/Source/Public/OnlineStats.h \
   ../Plugins/Online/OnlineSubsystem/Source/Public/OnlineKeyValuePair.h \
   Runtime/Core/Public/Templates/SharedPointer.h \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineIdentityYvr.h \
-  Runtime/Core/Public/CoreMinimal.h \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Public/OnlineSubsystemYvr.h \
   ../Plugins/Online/OnlineSubsystem/Source/Public/OnlineSubsystem.h \
   Runtime/Core/Public/Modules/ModuleManager.h \
@@ -1938,10 +1962,16 @@ E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/a/U
   Runtime/Core/Public/Containers/UnrealString.h \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Public/OnlineSubsystemYvrModule.h \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineSubsystemYvrTypesPrivate.h \
-  ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlineIdentityInterface.h \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineSubsystemYvrWrapper.h \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineMessageMultiTaskYvr.h \
   ../Plugins/Online/OnlineSubsystem/Source/Public/OnlineSubsystemPackage.h \
+  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineFriendsYvr.cpp \
+  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineFriendsYvr.h \
+  ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlineFriendsInterface.h \
+  ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlinePresenceInterface.h \
+  Runtime/Core/Public/Internationalization/Internationalization.h \
+  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineIdentityYvr.cpp \
+  ../Plugins/Online/OnlineSubsystem/Source/Public/OnlineError.h \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineLeaderboardYvr.cpp \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineLeaderboardYvr.h \
   ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlineLeaderboardInterface.h \
@@ -1950,21 +1980,14 @@ E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/a/U
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineSettingsCustomizationYvr.cpp \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineSettingsCustomizationYvr.h \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineSettingsYvr.cpp \
-  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineSettingsYvr.h \
-  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/UnrealGame/Inc/OnlineSubsystemYvr/UHT/OnlineSettingsYvr.generated.h \
-  Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
-  Runtime/CoreUObject/Public/UObject/ScriptMacros.h \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineSportYvr.cpp \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineSportYvr.h \
   ../Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Public/OnlineSubsystemUtils.h \
   Runtime/Engine/Classes/Engine/Engine.h \
   ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlineExternalUIInterface.h \
   ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlineMessageInterface.h \
-  ../Plugins/Online/OnlineSubsystem/Source/Public/OnlineError.h \
-  Runtime/Core/Public/Internationalization/Internationalization.h \
   ../Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Public/OnlineSubsystemUtilsModule.h \
   Runtime/Core/Public/Templates/UniquePtr.h \
-  ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlineFriendsInterface.h \
   Runtime/Core/Public/Features/IModularFeatures.h \
   ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlineTitleFileInterface.h \
   ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlineUserCloudInterface.h \
@@ -1975,29 +1998,14 @@ E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/a/U
   Runtime/SignalProcessing/Public/DSP/Dsp.h \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineSubsystemYvr.cpp \
   Runtime/Core/Public/Misc/ConfigCacheIni.h \
-  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineFriendsYvr.h \
-  ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlinePresenceInterface.h \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/YvrPlatformIAPInterface.h \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineSubsystemYvrLibrary.cpp \
-  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Public/OnlineSubsystemYvrLibrary.h \
-  Runtime/Engine/Classes/Kismet/BlueprintFunctionLibrary.h \
-  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/UnrealGame/Inc/OnlineSubsystemYvr/UHT/OnlineSubsystemYvrLibrary.generated.h \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineSubsystemYvrModule.cpp \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/OnlineSubsystemYvrWrapper.cpp \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/YvrEntitlementCallbackProxy.cpp \
-  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Classes/YvrEntitlementCallbackProxy.h \
-  Runtime/CoreUObject/Public/UObject/Object.h \
-  Runtime/Engine/Public/Net/OnlineBlueprintCallProxyBase.h \
-  Runtime/Engine/Classes/Kismet/BlueprintAsyncActionBase.h \
-  Runtime/CoreUObject/Public/UObject/WeakObjectPtr.h \
-  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/BlueprintAsyncActionBase.generated.h \
-  ../Intermediate/Build/Android/UnrealGame/Inc/Engine/UHT/OnlineBlueprintCallProxyBase.generated.h \
-  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/UnrealGame/Inc/OnlineSubsystemYvr/UHT/YvrEntitlementCallbackProxy.generated.h \
   ../Plugins/Online/OnlineSubsystem/Source/Public/Online.h \
   ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlineSessionInterface.h \
   ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlineSessionDelegates.h \
   ../Plugins/Online/OnlineSubsystem/Source/Public/Interfaces/OnlineEntitlementsInterface.h \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/YvrIdentityCallbackProxy.cpp \
-  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Classes/YvrIdentityCallbackProxy.h \
-  E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Intermediate/Build/Android/UnrealGame/Inc/OnlineSubsystemYvr/UHT/YvrIdentityCallbackProxy.generated.h \
   E:/UE5_Project/VSTTest/Plugins/OnlineSubsystemYvr/Source/Private/YvrPlatformIAPInterface.cpp

@@ -2,12 +2,12 @@
 	"RemapUnityFiles": 
 	{
 		"Module.YvrXRInput.cpp.obj": [
-			"YvrXRHandComponent.cpp.obj",
-			"YvrXRInputFunctionLibrary.cpp.obj",
 			"YvrXRHandComponent.gen.cpp.obj",
 			"YvrXRInput.init.gen.cpp.obj",
 			"YvrXRInputFunctionLibrary.gen.cpp.obj",
-			"YvrXRInput.cpp.obj"
+			"YvrXRHandComponent.cpp.obj",
+			"YvrXRInput.cpp.obj",
+			"YvrXRInputFunctionLibrary.cpp.obj"
 		]
 	}
 }
