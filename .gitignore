@@ -1,5 +1,11 @@
-/Plugins/OnlineSubsystemYvr/Intermediate
-/Plugins/YvrXR/Intermediate
-/Plugins/YvrBusiness/Intermediate
-/Plugins/YvrLivePreview/Intermediate
-*.pdb
+/.vs
+/.vscode
+/Binaries
+/Build
+/DerivedDataCache
+/Intermediate
+/Saved
+*.sln
+*.code-workspace
+*.ignore
+*.vsconfig

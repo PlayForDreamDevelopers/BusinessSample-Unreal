@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5_project\\vsttest\\plugins\\yvrbusiness\\source\\private\\yvrbusinesswrapper.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_project\\vsttest\\intermediate\\build\\win64\\x64\\vsttesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5_project\\vsttest\\plugins\\yvrbusiness\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\yvrbusiness\\definitions.yvrbusiness.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrbusiness\\source\\private\\yvrbusinesswrapper.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

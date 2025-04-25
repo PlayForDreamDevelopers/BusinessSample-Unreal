@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\intermediate\\build\\win64\\x64\\unrealgame\\development\\onlinesubsystemyvr\\module.onlinesubsystemyvr.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_project\\vsttest\\intermediate\\build\\win64\\x64\\vsttest\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\intermediate\\build\\win64\\x64\\unrealgame\\development\\onlinesubsystemyvr\\definitions.onlinesubsystemyvr.h",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\intermediate\\build\\win64\\unrealgame\\inc\\onlinesubsystemyvr\\uht\\onlinesettingsyvr.gen.cpp",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\source\\private\\onlinesettingsyvr.h",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\intermediate\\build\\win64\\unrealgame\\inc\\onlinesubsystemyvr\\uht\\onlinesettingsyvr.generated.h",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\intermediate\\build\\win64\\unrealgame\\inc\\onlinesubsystemyvr\\uht\\onlinesubsystemyvr.init.gen.cpp",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\intermediate\\build\\win64\\unrealgame\\inc\\onlinesubsystemyvr\\uht\\onlinesubsystemyvrlibrary.gen.cpp",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\source\\public\\onlinesubsystemyvrlibrary.h",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\intermediate\\build\\win64\\unrealgame\\inc\\onlinesubsystemyvr\\uht\\onlinesubsystemyvrlibrary.generated.h",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\intermediate\\build\\win64\\unrealgame\\inc\\onlinesubsystemyvr\\uht\\yvrentitlementcallbackproxy.gen.cpp",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\source\\classes\\yvrentitlementcallbackproxy.h",
+            "e:\\ue5\\ue_5.4\\engine\\source\\runtime\\engine\\public\\net\\onlineblueprintcallproxybase.h",
+            "e:\\ue5\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "e:\\ue5\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\blueprintasyncactionbase.generated.h",
+            "e:\\ue5\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\onlineblueprintcallproxybase.generated.h",
+            "e:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlineidentityinterface.h",
+            "e:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "e:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "e:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\intermediate\\build\\win64\\unrealgame\\inc\\onlinesubsystemyvr\\uht\\yvrentitlementcallbackproxy.generated.h",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\intermediate\\build\\win64\\unrealgame\\inc\\onlinesubsystemyvr\\uht\\yvridentitycallbackproxy.gen.cpp",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\source\\classes\\yvridentitycallbackproxy.h",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\intermediate\\build\\win64\\unrealgame\\inc\\onlinesubsystemyvr\\uht\\yvridentitycallbackproxy.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

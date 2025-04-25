@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\source\\yvrxrmr\\private\\yvrxrmarkercomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_project\\vsttest\\intermediate\\build\\win64\\x64\\vsttest\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\intermediate\\build\\win64\\x64\\unrealgame\\development\\yvrxrmr\\definitions.yvrxrmr.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\source\\yvrxrmr\\public\\yvrxrmarkercomponent.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\intermediate\\build\\win64\\unrealgame\\inc\\yvrxrmr\\uht\\yvrxrmarkercomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

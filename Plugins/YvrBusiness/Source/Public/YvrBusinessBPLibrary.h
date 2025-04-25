@@ -11,23 +11,23 @@ struct FVSTCameraFrameItem
 {
 	GENERATED_USTRUCT_BODY()
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	int32 FrameNumber;
+	int32 FrameNumber = 0;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	int32 Width;
+	int32 Width = 0;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	int32 Height;
+	int32 Height = 0;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	int32 Format;
+	int32 Format = 0;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	int32 ExposureDuration;
+	int32 ExposureDuration = 0;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	int64 SoeTimestamp;
+	int64 SoeTimestamp = 0;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	int64 SoeTimestampQ;
+	int64 SoeTimestampQ = 0;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	int32 Gain;
+	int32 Gain = 0;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	int32 DataSize;
+	int32 DataSize = 0;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
 	TArray<uint8> LeftEyeData;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
@@ -39,24 +39,24 @@ struct FYvrPose
 {
 	GENERATED_USTRUCT_BODY()
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	int64 Timestamp;
+	int64 Timestamp = 0;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	FVector Position;
+	FVector Position = FVector::ZeroVector;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	FQuat Rotation;
+	FQuat Rotation = FQuat::Identity;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	uint8 Confidence;
+	uint8 Confidence = 0;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	uint8 WarningFlag;
+	uint8 WarningFlag = 0;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	FVector LinearVelocity;
+	FVector LinearVelocity = FVector::ZeroVector;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	FVector LinearAcceleration;
+	FVector LinearAcceleration = FVector::ZeroVector;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	FVector AngularVelocity;
+	FVector AngularVelocity = FVector::ZeroVector;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	FVector AngularAcceleration;
-	
+	FVector AngularAcceleration = FVector::ZeroVector;
+
 };
 
 USTRUCT(BlueprintType)
@@ -115,13 +115,36 @@ struct FVSTCameraIntrinsicExtrinsic
 	GENERATED_USTRUCT_BODY()
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	FVector2D FocalLength;
+	FVector2D FocalLength = FVector2D::ZeroVector;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	FVector2D PrincipalPoint;
+	FVector2D PrincipalPoint = FVector2D::ZeroVector;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	FVector Position;
+	FVector Position = FVector::ZeroVector;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
-	FQuat Rotation;
+	FQuat Rotation = FQuat::Identity;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
+	TArray<float> Distortion;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "YvrLibrary")
+	TArray<uint8> Reserved;
+};
+
+UENUM(BlueprintType)
+enum class ECameraType :uint8
+{
+    PFDM_XR_CAMERA_TYPE_TRACKING_MASTER,
+    PFDM_XR_CAMERA_TYPE_TRACKING_SLAVE,
+    PFDM_XR_CAMERA_TYPE_TRACKING_AUX,
+    PFDM_XR_CAMERA_TYPE_EYE_TRACKING,
+    PFDM_XR_CAMERA_TYPE_TOF,
+    PFDM_XR_CAMERA_TYPE_MAX,
+};
+
+UENUM(BlueprintType)
+enum class ETrackingCameraFormat :uint8
+{
+    PFDM_XR_TRACKING_CAMERA_FMT_Y8,
+    PFDM_XR_TRACKING_CAMERA_FMT_RAW8,
 };
 
 UCLASS()
@@ -129,6 +152,7 @@ class UYvrBusinessBPLibrary : public UBlueprintFunctionLibrary
 {
 	GENERATED_UCLASS_BODY()
 public:
+
 	UFUNCTION(BlueprintPure, Category = "YvrLibrary")
 	static FString GetDeviceSn();
 	UFUNCTION(BlueprintPure, Category = "YvrLibrary")
@@ -161,6 +185,22 @@ public:
 	static bool GetVSTCameraOutputSource(EVSTCameraSource& OutSource);
 	UFUNCTION(BlueprintCallable, Category = "YvrLibrary")
 	static bool GetVSTCameraIntrinsicExtrinsic(EVSTCameraID ID, FVSTCameraIntrinsicExtrinsic& OutParams);
+	
+	//tracking
+	UFUNCTION(BlueprintCallable, Category = "YvrLibrary")
+	static bool OpenTrackingCamera(ECameraType Type);
+	UFUNCTION(BlueprintCallable, Category = "YvrLibrary")
+	static bool CloseTrackingCamera(ECameraType Type);
+	UFUNCTION(BlueprintCallable, Category = "YvrLibrary")
+	static bool SubscribeFrame(ECameraType Type);
+	UFUNCTION(BlueprintCallable, Category = "YvrLibrary")
+	static bool UnSubscribeFrame(ECameraType Type);
+	UFUNCTION(BlueprintCallable, Category = "YvrLibrary")
+	static bool AcquireTrackingCameraFrame(ECameraType Type, FVSTCameraFrameItem& FrameOutput);
+	UFUNCTION(BlueprintCallable, Category = "YvrLibrary")
+	static bool SetTrackingCameraFps(ECameraType Type, int32 Frequency);
+	UFUNCTION(BlueprintCallable, Category = "YvrLibrary")
+	static bool GetTrackingCameraFps(ECameraType Type, int32& Frequency);
 
 	// Utils
 	UFUNCTION(BlueprintCallable, Category = "YvrLibrary")
@@ -168,4 +208,7 @@ public:
 
 	UFUNCTION(BlueprintCallable, Category = "YvrLibrary")
 	static void UpdateRenderTargetFromYUVNV21(const TArray<uint8>& RawData, int32 Width, int32 Height, UTextureRenderTarget2D* RenderTarget2D, uint8 OverrideAlpha = 255);
+	
+	UFUNCTION(BlueprintCallable, Category = "YvrLibrary")
+	static void UpdateRenderTargetFromUVNVY8(const TArray<uint8>& RawData, int32 Width, int32 Height, UTextureRenderTarget2D* RenderTarget2D, uint8 OverrideAlpha = 255);
 };

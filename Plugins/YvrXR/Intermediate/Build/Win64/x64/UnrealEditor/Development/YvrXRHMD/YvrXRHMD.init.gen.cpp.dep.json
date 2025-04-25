@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\intermediate\\build\\win64\\unrealeditor\\inc\\yvrxrhmd\\uht\\yvrxrhmd.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_project\\vsttest\\intermediate\\build\\win64\\x64\\vsttesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\yvrxrhmd\\definitions.yvrxrhmd.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

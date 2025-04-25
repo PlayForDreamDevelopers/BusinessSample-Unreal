@@ -1,0 +1,41 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\source\\yvrxrinput\\private\\yvrxrhandcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_project\\vsttest\\intermediate\\build\\win64\\x64\\vsttest\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\intermediate\\build\\win64\\x64\\unrealgame\\development\\yvrxrinput\\definitions.yvrxrinput.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\source\\yvrxrinput\\public\\yvrxrhandcomponent.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\source\\yvrxrinput\\public\\yvrxrinputfunctionlibrary.h",
+            "e:\\ue5\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "e:\\ue5\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "e:\\ue5\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "e:\\ue5\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\capsulecomponent.generated.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\intermediate\\build\\win64\\unrealgame\\inc\\yvrxrinput\\uht\\yvrxrinputfunctionlibrary.generated.h",
+            "e:\\ue5\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\poseablemeshcomponent.h",
+            "e:\\ue5\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\poseablemeshcomponent.generated.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\intermediate\\build\\win64\\unrealgame\\inc\\yvrxrinput\\uht\\yvrxrhandcomponent.generated.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\source\\yvrxrinput\\private\\yvrxrinput.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\source\\yvrxrhmd\\public\\yvrxrcore.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\include\\openxr.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\include\\openxr_platform_defines.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\include\\openxr_reflection.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\include\\openxr_yvr.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\include\\openxr_extension_helpers.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\source\\yvrxrinput\\private\\yvrxrinputstate.h",
+            "e:\\ue5\\ue_5.4\\engine\\source\\runtime\\headmounteddisplay\\public\\imotioncontroller.h",
+            "e:\\ue5\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\headmounteddisplay\\uht\\imotioncontroller.generated.h",
+            "e:\\ue5\\ue_5.4\\engine\\plugins\\runtime\\xrbase\\source\\xrbase\\public\\xrmotioncontrollerbase.h",
+            "e:\\ue5\\ue_5.4\\engine\\source\\runtime\\inputdevice\\public\\iinputdevice.h",
+            "e:\\ue5\\ue_5.4\\engine\\source\\runtime\\inputdevice\\public\\ihapticdevice.h",
+            "e:\\ue5\\ue_5.4\\engine\\source\\runtime\\headmounteddisplay\\public\\headmounteddisplaytypes.h",
+            "e:\\ue5\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\headmounteddisplay\\uht\\headmounteddisplaytypes.generated.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\source\\yvrxrinput\\public\\iyvrxrinputplugin.h",
+            "e:\\ue5\\ue_5.4\\engine\\source\\runtime\\inputdevice\\public\\iinputdevicemodule.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\source\\yvrxrinput\\private\\iyvrxrhandtracking.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

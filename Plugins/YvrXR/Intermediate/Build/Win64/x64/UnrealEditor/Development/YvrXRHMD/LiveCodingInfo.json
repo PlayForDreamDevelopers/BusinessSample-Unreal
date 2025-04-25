@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.YvrXRHMD.cpp.obj": [
+			"YvrXRCore.cpp.obj",
+			"YvrXRHMDSettings.cpp.obj",
+			"YvrXRHMD_DynamicResolutionState.cpp.obj",
+			"YvrXRHMD_Layer.cpp.obj",
+			"YvrXRHMD_RenderBridge.cpp.obj",
+			"YvrXRShaders.cpp.obj",
+			"YvrXRFunctionLibrary.gen.cpp.obj",
+			"YvrXRHMD.init.gen.cpp.obj",
+			"YvrXRHMDSettings.gen.cpp.obj",
+			"YvrXRFunctionLibrary.cpp.obj",
+			"YvrXRHMD.cpp.obj",
+			"YvrXRHMD_Swapchain.cpp.obj"
+		]
+	}
+}

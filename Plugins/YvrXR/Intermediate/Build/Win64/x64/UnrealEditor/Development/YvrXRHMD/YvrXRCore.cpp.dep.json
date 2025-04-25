@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\source\\yvrxrhmd\\private\\yvrxrcore.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_project\\vsttest\\intermediate\\build\\win64\\x64\\vsttesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\yvrxrhmd\\definitions.yvrxrhmd.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\source\\yvrxrhmd\\public\\yvrxrcore.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\include\\openxr.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\include\\openxr_platform_defines.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\include\\openxr_reflection.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\include\\openxr_yvr.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\include\\openxr_extension_helpers.h",
+            "e:\\ue5\\ue_5.4\\engine\\source\\runtime\\headmounteddisplay\\public\\headmounteddisplaytypes.h",
+            "e:\\ue5\\ue_5.4\\engine\\source\\runtime\\headmounteddisplay\\public\\imotioncontroller.h",
+            "e:\\ue5\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\imotioncontroller.generated.h",
+            "e:\\ue5\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\headmounteddisplaytypes.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

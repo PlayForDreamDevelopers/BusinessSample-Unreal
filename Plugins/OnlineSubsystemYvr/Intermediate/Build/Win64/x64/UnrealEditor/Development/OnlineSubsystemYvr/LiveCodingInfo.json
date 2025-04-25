@@ -1,0 +1,28 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OnlineSubsystemYvr.cpp.obj": [
+			"OnlineAchievementsYvr.cpp.obj",
+			"OnlineLeaderboardYvr.cpp.obj",
+			"OnlineMessageMultiTaskYvr.cpp.obj",
+			"OnlineMessageTaskManagerYvr.cpp.obj",
+			"OnlineSettingsCustomizationYvr.cpp.obj",
+			"OnlineSettingsYvr.cpp.obj",
+			"OnlineSportYvr.cpp.obj",
+			"OnlineSubsystemYvr.cpp.obj",
+			"OnlineSubsystemYvrLibrary.cpp.obj",
+			"OnlineSubsystemYvrModule.cpp.obj",
+			"OnlineSubsystemYvrWrapper.cpp.obj",
+			"YvrEntitlementCallbackProxy.cpp.obj",
+			"YvrIdentityCallbackProxy.cpp.obj",
+			"YvrPlatformIAPInterface.cpp.obj",
+			"OnlineSettingsYvr.gen.cpp.obj",
+			"OnlineSubsystemYvr.init.gen.cpp.obj",
+			"OnlineSubsystemYvrLibrary.gen.cpp.obj",
+			"YvrEntitlementCallbackProxy.gen.cpp.obj",
+			"YvrIdentityCallbackProxy.gen.cpp.obj",
+			"OnlineFriendsYvr.cpp.obj",
+			"OnlineIdentityYvr.cpp.obj"
+		]
+	}
+}

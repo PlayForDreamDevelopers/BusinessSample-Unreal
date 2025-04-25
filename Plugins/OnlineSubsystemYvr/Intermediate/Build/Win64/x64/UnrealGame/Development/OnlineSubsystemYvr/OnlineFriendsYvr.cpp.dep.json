@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\source\\private\\onlinefriendsyvr.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_project\\vsttest\\intermediate\\build\\win64\\x64\\vsttest\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\intermediate\\build\\win64\\x64\\unrealgame\\development\\onlinesubsystemyvr\\definitions.onlinesubsystemyvr.h",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\source\\private\\onlinefriendsyvr.h",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\source\\public\\onlinesubsystemyvr.h",
+            "e:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystem.h",
+            "e:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemmodule.h",
+            "e:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemtypes.h",
+            "e:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemnames.h",
+            "e:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinedelegatemacros.h",
+            "e:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinesubsystemimpl.h",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\source\\public\\onlinemessagetaskmanageryvr.h",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\source\\public\\onlinesubsystemyvrtypes.h",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\source\\public\\onlinesubsystemyvrmodule.h",
+            "e:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinefriendsinterface.h",
+            "e:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\interfaces\\onlinepresenceinterface.h",
+            "e:\\ue5\\ue_5.4\\engine\\plugins\\online\\onlinesubsystem\\source\\public\\onlinekeyvaluepair.h",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\source\\private\\onlinesubsystemyvrtypesprivate.h",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\source\\private\\onlinesubsystemyvrwrapper.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

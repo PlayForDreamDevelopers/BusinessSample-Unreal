@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\source\\yvrxrhmd\\private\\yvrxrshaders.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_project\\vsttest\\intermediate\\build\\win64\\x64\\vsttesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\yvrxrhmd\\definitions.yvrxrhmd.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\source\\yvrxrhmd\\public\\yvrxrshaders.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

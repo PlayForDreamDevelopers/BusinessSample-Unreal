@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\intermediate\\build\\win64\\x64\\unrealgame\\development\\yvrxrinput\\module.yvrxrinput.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_project\\vsttest\\intermediate\\build\\win64\\x64\\vsttest\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\intermediate\\build\\win64\\x64\\unrealgame\\development\\yvrxrinput\\definitions.yvrxrinput.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\intermediate\\build\\win64\\unrealgame\\inc\\yvrxrinput\\uht\\yvrxrhandcomponent.gen.cpp",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\source\\yvrxrinput\\public\\yvrxrhandcomponent.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\source\\yvrxrinput\\public\\yvrxrinputfunctionlibrary.h",
+            "e:\\ue5\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "e:\\ue5\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "e:\\ue5\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "e:\\ue5\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\capsulecomponent.generated.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\intermediate\\build\\win64\\unrealgame\\inc\\yvrxrinput\\uht\\yvrxrinputfunctionlibrary.generated.h",
+            "e:\\ue5\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\poseablemeshcomponent.h",
+            "e:\\ue5\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\poseablemeshcomponent.generated.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\intermediate\\build\\win64\\unrealgame\\inc\\yvrxrinput\\uht\\yvrxrhandcomponent.generated.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\intermediate\\build\\win64\\unrealgame\\inc\\yvrxrinput\\uht\\yvrxrinput.init.gen.cpp",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\intermediate\\build\\win64\\unrealgame\\inc\\yvrxrinput\\uht\\yvrxrinputfunctionlibrary.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

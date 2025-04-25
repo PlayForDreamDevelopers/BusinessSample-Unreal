@@ -1,0 +1,25 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.YvrXRMR.cpp.obj": [
+			"YvrXRAnchorComponent.cpp.obj",
+			"YvrXRSpaceMeshActor.cpp.obj",
+			"YvrXRSpaceMeshComponent.cpp.obj",
+			"YvrXRAnchorComponent.gen.cpp.obj",
+			"YvrXRAsyncAnchorAction.gen.cpp.obj",
+			"YvrXRMarkerComponent.gen.cpp.obj",
+			"YvrXRMR.init.gen.cpp.obj",
+			"YvrXRMRFunctionLibrary.gen.cpp.obj",
+			"YvrXRMRTypes.gen.cpp.obj",
+			"YvrXRSpaceMeshActor.gen.cpp.obj",
+			"YvrXRSpaceMeshComponent.gen.cpp.obj",
+			"YvrXRAnchorManager.cpp.obj",
+			"YvrXRAsyncAnchorAction.cpp.obj",
+			"YvrXRMarkerComponent.cpp.obj",
+			"YvrXRMarkerManager.cpp.obj",
+			"YvrXRMRFunctionLibrary.cpp.obj",
+			"YvrXRMRModule.cpp.obj",
+			"YvrXRSpaceMeshManager.cpp.obj"
+		]
+	}
+}

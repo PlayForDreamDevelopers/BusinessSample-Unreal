@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.YvrBusiness.cpp.obj": [
+			"YvrBusiness.cpp.obj",
+			"YvrBusinessWrapper.cpp.obj",
+			"YvrBusiness.init.gen.cpp.obj",
+			"YvrBusinessBPLibrary.gen.cpp.obj",
+			"YvrCameraComponent.gen.cpp.obj",
+			"YvrBusinessBPLibrary.cpp.obj",
+			"YvrCameraComponent.cpp.obj",
+			"YvrInterfaceWrapper.cpp.obj"
+		]
+	}
+}

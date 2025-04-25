@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-YvrBusiness-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UE5_Project\VSTTest\Intermediate\Build\Win64\x64\VSTTestEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.obj"
+"E:\UE5_Project\VSTTest\Plugins\YvrBusiness\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\YvrBusiness\Module.YvrBusiness.cpp.obj"
+"E:\UE5_Project\VSTTest\Plugins\YvrBusiness\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\YvrBusiness\YvrBusiness.cpp.obj"
+"E:\UE5_Project\VSTTest\Plugins\YvrBusiness\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\YvrBusiness\YvrBusinessBPLibrary.cpp.obj"
+"E:\UE5_Project\VSTTest\Plugins\YvrBusiness\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\YvrBusiness\YvrBusinessWrapper.cpp.obj"
+"E:\UE5_Project\VSTTest\Plugins\YvrBusiness\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\YvrBusiness\YvrInterfaceWrapper.cpp.obj"
+"E:\UE5_Project\VSTTest\Plugins\YvrBusiness\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\YvrBusiness\Default.rc2.res"
+/OUT:"E:\UE5_Project\VSTTest\Plugins\YvrBusiness\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\YvrBusiness\UnrealEditor-YvrBusiness-Win64-DebugGame.lib"

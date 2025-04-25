@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\source\\private\\onlinesubsystemyvrwrapper.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_project\\vsttest\\intermediate\\build\\win64\\x64\\vsttest\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\intermediate\\build\\win64\\x64\\unrealgame\\development\\onlinesubsystemyvr\\definitions.onlinesubsystemyvr.h",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\source\\private\\onlinesubsystemyvrwrapper.h",
+            "e:\\ue5_project\\vsttest\\plugins\\onlinesubsystemyvr\\source\\public\\onlinesubsystemyvrtypes.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

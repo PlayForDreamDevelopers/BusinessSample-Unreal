@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5_project\\vsttest\\plugins\\yvrbusiness\\source\\private\\yvrinterfacewrapper.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_project\\vsttest\\intermediate\\build\\win64\\x64\\vsttest\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5_project\\vsttest\\plugins\\yvrbusiness\\intermediate\\build\\win64\\x64\\unrealgame\\development\\yvrbusiness\\definitions.yvrbusiness.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrbusiness\\source\\private\\yvrinterfacewrapper.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrbusiness\\include\\pfdm_xr_enp.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\string",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\xstring",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\__msvc_sanitizer_annotate_container.hpp",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\xpolymorphic_allocator.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\cctype",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrbusiness\\include\\pfdm_xr_camera_types.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrbusiness\\include\\pfdm_xr_camera_interface.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

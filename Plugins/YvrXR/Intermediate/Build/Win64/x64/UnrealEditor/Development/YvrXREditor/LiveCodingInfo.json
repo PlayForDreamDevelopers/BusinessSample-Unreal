@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.YvrXREditor.cpp.obj": [
+			"YvrXREditor.cpp.obj",
+			"YvrXRSettingsCustomization.cpp.obj"
+		]
+	}
+}

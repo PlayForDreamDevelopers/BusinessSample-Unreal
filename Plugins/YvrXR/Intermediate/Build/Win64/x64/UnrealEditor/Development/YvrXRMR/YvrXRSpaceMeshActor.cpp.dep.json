@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\source\\yvrxrmr\\private\\yvrxrspacemeshactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5_project\\vsttest\\intermediate\\build\\win64\\x64\\vsttesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\yvrxrmr\\definitions.yvrxrmr.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\source\\yvrxrmr\\private\\yvrxrspacemeshactor.h",
+            "e:\\ue5\\ue_5.4\\engine\\plugins\\runtime\\proceduralmeshcomponent\\source\\proceduralmeshcomponent\\public\\proceduralmeshcomponent.h",
+            "e:\\ue5\\ue_5.4\\engine\\plugins\\runtime\\proceduralmeshcomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\proceduralmeshcomponent\\uht\\proceduralmeshcomponent.generated.h",
+            "e:\\ue5\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\linebatchcomponent.h",
+            "e:\\ue5\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\linebatchcomponent.generated.h",
+            "e:\\ue5_project\\vsttest\\plugins\\yvrxr\\intermediate\\build\\win64\\unrealeditor\\inc\\yvrxrmr\\uht\\yvrxrspacemeshactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
